@@ -1,0 +1,25 @@
+.topbox {
+    background-color: #FFFF94;
+    padding-top: 1%;
+}
+
+.yellow {
+    background-color: #FFFF94;
+}
+
+.atag {
+    transition: 1s ease;
+}
+
+.atag:hover {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.card {
+    margin-top: 5%;
+}
+
+.list-group {
+    margin-top: 10%;
+}
